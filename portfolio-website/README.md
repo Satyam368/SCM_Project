@@ -21,5 +21,3 @@ This portfolio website serves as a digital resume, providing an overview of my s
 - JavaScript (for future enhancements)
 - External libraries: Remix Icon, Google Fonts
 - 
-## Deployment
-The website is deployed on GitHub Pages and can be accessed [here](https://akshit1535.github.io/portfolio-website/).
